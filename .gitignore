@@ -1,3 +1,6 @@
 node_modules
 .env
-public
+public/compressed/*
+!public/compressed/index.html
+public/uploads/*
+!public/uploads/index.html
